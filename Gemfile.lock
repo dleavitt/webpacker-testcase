@@ -1,5 +1,7 @@
-PATH
-  remote: ../webpacker
+GIT
+  remote: https://github.com/dleavitt/webpacker.git
+  revision: 94f33d942089d5c352effb55889adfca64e5ea4e
+  branch: no-vendor-option
   specs:
     webpacker (0.2)
       activesupport (>= 3.0.0, < 5.1)
