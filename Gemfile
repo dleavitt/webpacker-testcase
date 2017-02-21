@@ -13,7 +13,7 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-gem 'webpacker', github: 'dleavitt/webpacker', branch: 'no-vendor-option'
+gem 'webpacker', github: 'dleavitt/webpacker', branch: 'liberate-yarn'
 
 
 # Use Capistrano for deployment
